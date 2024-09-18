@@ -1,0 +1,1 @@
+Esse código serve para somar dois números e mostrar o resultado na tela. Usei HTML e CSS para criar e deixar a página mais bonita. A soma dos números acontece com a ajuda do JavaScript, que pega o que a pessoa digita e faz o cálculo na hora, esse codigo e um exemplo de como usar DOMM com java script
